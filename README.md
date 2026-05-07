@@ -1,2 +1,2 @@
-# Stasis-bot
-source code of an Discord all in one bot.
+# Stasis
+source code of an old rblx revival
